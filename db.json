@@ -1,0 +1,894 @@
+{
+    "Categories" : [
+        {
+            "img" : "/category/img1.webp",
+            "title" : "Grocery"
+        },
+        {
+            "img" : "/category/img2.webp",
+            "title" : "Mobiles"
+        },
+        {
+            "img" : "/category/img3.jpg",
+            "title" : "Fashion"
+        },
+        {
+            "img" : "/category/img4.jpeg",
+            "title" : "Electronics"
+        },
+        {
+            "img" : "/category/img5.webp",
+            "title" : "Home & Furniture"
+        },
+        {
+            "img" : "/category/img6.webp",
+            "title" : "Appliances"
+        },
+        {
+            "img" : "/category/img7.webp",
+            "title" : "Travel"
+        },
+        {
+            "img" : "/category/img8.webp",
+            "title" : "Beauty, Toys & More"
+        },
+        {
+            "img" : "/category/img9.jpg",
+            "title" : "Two Wheelers"
+        }
+    ],
+    "saleCarousel" : [
+        {
+            "img" : "/sale/img1.webp"
+        },
+        {
+            "img" : "/sale/img2.webp"
+        },
+        {
+            "img" : "/sale/img3.webp"
+        },
+        {
+            "img" : "/sale/img4.webp"
+        },
+        {
+            "img" : "/sale/img5.webp"
+        },
+        {
+            "img" : "/sale/img6.webp"
+        }
+    ],
+    "smartPhones" : [
+        {
+            "img" : "/mobileBestDeals/img1.webp",
+            "title" : "moto edge 40 neo",
+            "price" : 22999
+        },
+        {
+            "img" : "/mobileBestDeals/img2.webp",
+            "title" : "vivo t2 pro 5g",
+            "price" : 21499
+        },
+        {
+            "img" : "/mobileBestDeals/img3.webp",
+            "title" : "poco m6 pro",
+            "price" : 9999
+        },
+        {
+            "img" : "/mobileBestDeals/img4.webp",
+            "title" : "redmi 12 5g",
+            "price" : 12999
+        },
+        {
+            "img" : "/mobileBestDeals/img5.webp",
+            "title" : "poco X6 neo 5g",
+            "price" : 14999
+        },
+        {
+            "img" : "/mobileBestDeals/img6.webp",
+            "title" : "poco m6 5g",
+            "price" : 9499
+        },
+        {
+            "img" : "/mobileBestDeals/img7.webp",
+            "title" : "poco X6 pro",
+            "price" : 24999
+        },
+        {
+            "img" : "/mobileBestDeals/img8.webp",
+            "title" : "infinix smart 8",
+            "price" : 5999
+        },
+        {
+            "img" : "/mobileBestDeals/img9.webp",
+            "title" : "iPhone 15",
+            "price" : 63499
+        },
+        {
+            "img" : "/mobileBestDeals/img10.webp",
+            "title" : "samsumg s21 FE",
+            "price" : 28999
+        },
+        {
+            "img" : "/mobileBestDeals/img11.webp",
+            "title" : "realme c53",
+            "price" : 8499
+        },
+        {
+            "img" : "/mobileBestDeals/img12.webp",
+            "title" : "iphone 14",
+            "price" : 65999
+        }
+    ],
+    "belowSmartphones" : [
+        {
+            "img" : "/belowMobile/img1.webp"
+        },
+        {
+            "img" : "/belowMobile/img2.webp"
+        },
+        {
+            "img" : "/belowMobile/img3.webp"
+        }
+    ],
+    "topDeals" : [
+        {
+            "img": "/topDeals/img1.webp",
+            "title": "HRX Fila & more",
+            "price": 899,
+            "category": "Men's shoes"
+        },
+        {
+            "img": "/topDeals/img2.webp",
+            "title": "Vishudh & Tokya Talkies",
+            "price": 399,
+            "category": "women's heels flat"
+        },
+        {
+            "img": "/topDeals/img3.webp",
+            "title": "Armani Exchange & more",
+            "price": "Upto 80% off",
+            "category" : "Grand off on watches"
+        },
+        {
+            "img": "/topDeals/img4.webp",
+            "title": "Puma new balance & more",
+            "price": "Min. 60%-80% off",
+            "category": "Men's shoes"
+        },
+        {
+            "img": "/topDeals/img5.webp",
+            "title": "Red tape , wildcraft",
+            "price": "Min. 60% off",
+            "category": "Big brands on Discount"
+        },
+        {
+            "img": "/topDeals/img6.webp",
+            "title": "ADIDAS sketchers & more",
+            "price": "Min 50%-60% off",
+            "category": "Men's shoes"
+        },
+        {
+            "img": "/topDeals/img7.webp",
+            "title": "Fastract Ray Ban",
+            "price": "30%-80% off",
+            "category": "Higest Discount of Season"
+        },
+        {
+            "img": "/topDeals/img8.webp",
+            "title": "Allen Solly",
+            "price": "40%-60% off",
+            "category": "women's heels"
+        }
+    ],
+    "belowTopDeals" : [
+        {
+            "img" : "/belowTopDeals/img1.webp"
+            
+        },
+        {
+            "img" : "/belowTopDeals/img2.webp"
+            
+        },
+        {
+            "img" : "/belowTopDeals/img3.webp"
+            
+        },
+        {
+            "img" : "/belowTopDeals/img4.webp"
+            
+        },
+        {
+            "img" : "/belowTopDeals/img5.webp"
+            
+        },
+        {
+            "img" : "/belowTopDeals/img6.webp"
+            
+        },
+        {
+            "img" : "/belowTopDeals/img7.webp"
+            
+        },
+        {
+            "img" : "/belowTopDeals/img8.webp"
+            
+        },
+        {
+            "img" : "/belowTopDeals/img9.webp"
+            
+        },
+        {
+            "img" : "/belowTopDeals/img10.webp"
+            
+        },
+        {
+            "img" : "/belowTopDeals/img11.webp"
+            
+        },
+        {
+            "img" : "/belowTopDeals/img12.webp"
+            
+        }
+    ],
+    "fashionBestDeals" : [
+        {
+            "img" : "/fashionBestDeals/img1.webp",
+            "title": "Puma new balance & more",
+            "price" : "Min. 60%-80% off",
+            "category" : "Men's Footwear"
+        },
+        {
+            "img": "/fashionBestDeals/img2.webp",
+            "title" : "HRX Fila & more",
+            "price" : 899,
+            "category" : "Men's Footwear"
+        },
+        {
+            "img": "/fashionBestDeals/img3.webp",
+            "title" : "ADIDAS sketchers & more",
+            "price" : "Min 50%-60% off",
+            "category" : "Men's shoes"
+        },
+        {
+            "img": "/fashionBestDeals/img4.webp",
+            "title" : "Tokya Talkies",
+            "price" : 299,
+            "category" : "Tops Dresses & more"
+        },
+        {
+            "img": "/fashionBestDeals/img5.webp",
+            "title" : "PUMA, adidas & more",
+            "price" : "Min 50%-60% off",
+            "category" : "Men's shoes"
+        },
+        {
+            "img": "/fashionBestDeals/img6.webp",
+            "title" : "NIKE",
+            "price" : "Upto 40% off",
+            "category" : "Women's shoes"
+        },
+        {
+            "img": "/fashionBestDeals/img7.webp",
+            "title" : "stylish Sarees",
+            "price" : 499,
+            "category" : "Hot collection"
+        },
+        {
+            "img": "/fashionBestDeals/img8.webp",
+            "title" : "Kurtas, Sets & more",
+            "price" : "Upto 60% off",
+            "category" : "Women's collection"
+        }
+    ],
+    "belowFashion" : [
+        {
+           "img" : "/belowFashion/img1.webp"
+        },
+        {
+           "img" : "/belowFashion/img2.webp"
+        },
+        {
+           "img" : "/belowFashion/img3.webp"
+        },
+        {
+           "img" : "/belowFashion/img4.webp"
+        },
+        {
+           "img" : "/belowFashion/img5.webp"
+        },
+        {
+           "img" : "/belowFashion/img6.webp"
+        }
+    ],
+    "summerDecors" : [
+        {
+            "img": "/summerDecors/img1.webp",
+            "title": "Men's Casual Shoes",
+            "price" : "Min. 70% off"
+        },
+        {
+            "img": "/summerDecors/img2.webp",
+            "title" : "Hair Oil",
+            "price": "Min 50% off"
+        },
+        {
+            "img": "/summerDecors/img3.webp",
+            "title" : "Jewellery",
+            "price": "Min. 70% off"
+        },
+        {
+            "img": "/summerDecors/img4.webp",
+            "title" : "Women's Sarees",
+            "price": "Min 50% off"
+        }
+    ],
+    "studentEssentials" : [
+        {
+            "img": "/studentEssentials/img1.webp",
+            "title": "Biscuit Cookies & Rusk",
+            "price": "Min 50% off"
+        },
+        {
+            "img": "/studentEssentials/img2.webp",
+            "title" : "Water Bottles & flask",
+            "price": "Min 50% off"
+        },
+        {
+            "img": "/studentEssentials/img3.webp",
+            "title" : "Sockets"
+        },
+        {
+            "img": "/studentEssentials/img4.webp",
+            "title" : "Women's Ethnic Dress",
+            "price": "Most-Loved"
+        }
+    ],
+    "travelEssentials": [
+        {
+            "img" : "/travelEssentials/img1.webp",
+            "title" : "Smart Brands",
+            "price" : "Min 40% off"
+        },
+        {
+            "img" : "/travelEssentials/img2.webp",
+            "title" : "Locks",
+            "price" : "Min 50% off"
+        },
+        {
+            "img" : "/travelEssentials/img3.webp",
+            "title" : "Headset",
+            "price" : "Min 50%-60% off"
+        },
+        {
+            "img" : "/travelEssentials/img4.webp",
+            "title" : "Wallets",
+            "price" : "Min. 70% off"
+        }
+    ],
+    "neverBefore": [
+        {
+            "img": "/neverBefore/img1.webp",
+            "title": "NIKE",
+            "price": "Min 50%-60% off"
+        },
+        {
+            "img": "/neverBefore/img2.webp",
+            "title": "Kurtas, Sets",
+            "price": 199,
+            "category": "Hero Deals"
+        },
+        {
+            "img": "/neverBefore/img3.webp",
+            "title": "NIKE ADIDAS",
+            "price": "Min 40% off",
+            "category": "Men's Footwear"
+        },
+        {
+            "img": "/neverBefore/img4.webp",
+            "title": "Woodland Wildcraft",
+            "price": "Min 50%-60% off",
+            "category": "Outdoor shoes"
+        },
+        {
+            "img": "/neverBefore/img5.webp",
+            "title": "Fastract Ray Ban",
+            "price": "Min 40% off",
+            "category": "Stylish Sunglasses"
+        },
+        {
+            "img": "/neverBefore/img6.webp",
+            "title": "Red tape",
+            "price": "Min 50% off",
+            "category": "Kids Shoes"
+        },
+        {
+            "img": "/neverBefore/img7.webp",
+            "title": "Kurtas & Sets",
+            "price": 199,
+            "category": "Libas, Biba"
+        },
+        {
+            "img": "/neverBefore/img8.webp",
+            "title": "Campus HRX",
+            "price": 399,
+            "category": "Men's Shoes"
+        }
+    ],
+    "belowNever" : [
+        {
+            "img" : "/belowNever/img1.webp"
+        },
+        {
+            "img" : "/belowNever/img2.webp"
+        },
+        {
+            "img" : "/belowNever/img3.webp"
+        }
+    ],
+    "furniture" : [
+        {
+            "img" : "/furniture/img1.webp",
+            "title" : "Shoe Racks",
+            "price" : 199,
+            "category" : "Fabric metal"
+        },
+        {
+            "img" : "/furniture/img2.webp",
+            "title" : "Portable laptop table",
+            "price" : 399,
+            "category" : "Glass, Plastic"
+        },
+        {
+            "img" : "/furniture/img3.webp",
+            "title" : "Home temple",
+            "price" : 299,
+            "category" : "Metal Solidwood"
+        },
+        {
+            "img" : "/furniture/img4.webp",
+            "title" : "Office study chairs",
+            "price" : 1890,
+            "category" : "Best for Work from home"
+        },
+        {
+            "img" : "/furniture/img5.webp",
+            "title" : "Hammock & Swings",
+            "price" : 299,
+            "category" : "MT HUB"
+        },
+        {
+            "img" : "/furniture/img6.webp",
+            "title" : "Cabinet & Drawers",
+            "price" : 349,
+            "category" : "Modern & Trendy"
+        },
+        {
+            "img" : "/furniture/img7.webp",
+            "title" : "Wardrobes",
+            "price" : 4999,
+            "category" : "2,3,4, doors"
+        },
+        {
+            "img" : "/furniture/img8.webp",
+            "title" : "Mattresses",
+            "price" : 2990,
+            "category" : "Wakefit Sleepyhead"
+        }
+    ],
+    "appliances" : [
+        {
+            "img" : "/appliances/img1.webp",
+            "title" : "Top Deals on Washing Machine",
+            "price" : "Shop Now !",
+            "category" : "Limited Period Offer"
+        },
+        {
+            "img" : "/appliances/img2.webp",
+            "title" : "Kitchen Essentials",
+            "price" : 1999,
+            "category" : "Top Brands"
+        },
+        {
+            "img" : "/appliances/img3.webp",
+            "title" : "Home Essentials",
+            "price" : "Shop Now !",
+            "category" : "Philips Kent & more"
+        },
+        {
+            "img" : "/appliances/img4.webp",
+            "title" : "Best Deals on ACs",
+            "price" : 24999,
+            "category" : "Upto 70% Off"
+        },
+        {
+            "img" : "/appliances/img5.webp",
+            "title" : "New launches",
+            "price" : 6299,
+            "category" : "Samsung"
+        },
+        {
+            "img" : "/appliances/img6.webp",
+            "title" : "Fans & Coolers",
+            "price" : 999,
+            "category" : "Top Brands"
+        },
+        {
+            "img" : "/appliances/img7.webp",
+            "title" : "Best Selling Microwave",
+            "price" : 4690,
+            "category" : "Grab Now!"
+        },
+        {
+            "img" : "/appliances/img8.webp",
+            "title" : "750W Mixers",
+            "price" : 1599,
+            "category" : "Preethi, Bosch & more"
+        }
+    ],
+    "electronics" : [
+        {
+            "img" : "/electronics/img1.webp",
+            "title" : "Bluetooth Headphones",
+            "price" : 699,
+            "category" : "boAt , realme & more"
+        },
+        {
+            "img" : "/electronics/img2.webp",
+            "title" : "Calling Smartwatches",
+            "price" : 799,
+            "category" : "Noise, fire-Bould & more"
+        },
+        {
+            "img" : "/electronics/img3.webp",
+            "title" : "Gaming Consoles",
+            "price" : 17990,
+            "category" : "Grap or Gone deals"
+        },
+        {
+            "img" : "/electronics/img4.webp",
+            "title" : "Top deals on PowerBanks",
+            "price" : 459,
+            "category" : "Ambrace, Mi & more"
+        },
+        {
+            "img" : "/electronics/img5.webp",
+            "title" : "Mobile Chargers are here",
+            "price" : 99,
+            "category" : "Grab Now"
+        },
+        {
+            "img" : "/electronics/img6.webp",
+            "title" : "Smart Lighting Solutions",
+            "price" : 399,
+            "category" : "TP-Link, Philips & more"
+        },
+        {
+            "img" : "/electronics/img7.webp",
+            "title" : "Mobile Cables",
+            "price" : 49,
+            "category" : "Buy Now"
+        },
+        {
+            "img" : "/electronics/img8.webp",
+            "title" : "Premium Speakers",
+            "price" : "Gran Now",
+            "category" : "Marshall, Bose & more"
+        }
+    ],
+    "belowElectronics" : [
+        {"img" : "/belowElectronics/img1.webp"},
+        {"img" : "/belowElectronics/img2.webp"},
+        {"img" : "/belowElectronics/img3.webp"}
+    ],
+    "superhit" : [
+        {
+            "img" : "/superHit/img1.webp",
+            "title" : "bucca bucci, Bruton & more",
+            "price" : 1299,
+            "category" : "Men's Footwear"
+        },
+        {
+            "img" : "/superHit/img2.webp",
+            "title" : "Nike, Sketchers & more",
+            "price" : "Min 50% off",
+            "category" : "Sports Shoes"
+        },
+        {
+            "img" : "/superHit/img3.webp",
+            "title" : "SweatShirts, Dresses",
+            "price" : "60%-80% off",
+            "category" : "Bewakoof, Tokya & more"
+        },
+        {
+            "img" : "/superHit/img4.webp",
+            "title" : "Womens' Dressess",
+            "price" : "Upto 70% off",
+            "category" : "RARESIM"
+        },
+        {
+            "img" : "/superHit/img5.webp",
+            "title" : "PUMA, Rebook",
+            "price" : 499,
+            "category" : "Men's Shoes"
+        },
+        {
+            "img" : "/superHit/img6.webp",
+            "title" : "Hotselling sarees",
+            "price" : "Flat 80% off",
+            "category" : "Festive Collection"
+        },
+        {
+            "img" : "/superHit/img7.webp",
+            "title" : "Kurtas Sets & more",
+            "price" : "60%-80% off",
+            "category" : "W, Aurelia"
+        },
+        {
+            "img" : "/superHit/img8.webp",
+            "title" : "On Running",
+            "price" : "Upto 40% off",
+            "category" : "Men's Shoes"
+        }
+    ],
+    "belowSuperhit" : [
+        { "img" : "/belowSuperhit/img1.webp"},
+        { "img" : "/belowSuperhit/img2.webp"},
+        { "img" : "/belowSuperhit/img3.webp"},
+        { "img" : "/belowSuperhit/img4.webp"},
+        { "img" : "/belowSuperhit/img5.webp"},
+        { "img" : "/belowSuperhit/img6.webp"}
+    ],
+    "shoePage" : [
+        {
+            "img" : [
+                "/shoesPage/shoe1/img1.webp",
+                "/shoesPage/shoe1/img2.webp",
+                "/shoesPage/shoe1/img3.webp",
+                "/shoesPage/shoe1/img4.webp"
+            ],
+            "brand" : "action",
+            "title" : "NITRO 720 Comfortable",
+            "flipkartAssured" : "false",
+            "price" : 1299,
+            "ogPrice" : 3199,
+            "size" : "6,7,8,9"
+        },
+        {
+            "img" : [
+                "/shoesPage/shoe2/img1.webp",
+                "/shoesPage/shoe2/img2.webp",
+                "/shoesPage/shoe2/img3.webp",
+                "/shoesPage/shoe2/img4.webp"
+            ],
+            "brand" : "action",
+            "title" : "action Athelio",
+            "flipkartAssured" : "true",
+            "price" : 879,
+            "ogPrice" : 2799,
+            "size" : "6,7,8,9,10",
+            "special" : "Hot Deal"
+        },
+        {
+            "img" : [
+                "/shoesPage/shoe3/img1.webp",
+                "/shoesPage/shoe3/img2.webp",
+                "/shoesPage/shoe3/img3.webp",
+                "/shoesPage/shoe3/img4.webp"
+            ],
+            "brand" : "PUMA",
+            "title" : "FTR Xtraflow IDP",
+            "flipkartAssured" : "false",
+            "price" : 2162,
+            "ogPrice" : 5499,
+            "size" : "6,7,8,9,11",
+            "color" : ""
+        },
+        {
+            "img" : [
+                "/shoesPage/shoe4/img1.webp",
+                "/shoesPage/shoe4/img2.webp",
+                "/shoesPage/shoe4/img3.webp",
+                "/shoesPage/shoe4/img4.webp"
+            ],
+            "brand" : "Asiacs",
+            "title" : "GET-GALAXY 8B",
+            "flipkartAssured" : "true",
+            "price" : 1867,
+            "ogPrice" : 4699,
+            "size" : "6,7,10",
+            "qty" : "Only few Left"
+        },
+        {
+            "img" : [
+                "/shoesPage/shoe5/img1.webp",
+                "/shoesPage/shoe5/img2.webp",
+                "/shoesPage/shoe5/img3.webp",
+                "/shoesPage/shoe5/img4.webp"
+            ],
+            "brand" : "CAMPUS",
+            "title" : "Megnite Running",
+            "flipkartAssured" : "true",
+            "price" : 696,
+            "ogPrice" : 1399,
+            "size" : "6,7,8,9,10"
+        },
+        {
+            "img" : [
+                "/shoesPage/shoe6/img1.webp",
+                "/shoesPage/shoe6/img2.webp",
+                "/shoesPage/shoe6/img3.webp",
+                "/shoesPage/shoe6/img4.webp"
+            ],
+            "brand" : "ADIDAS",
+            "title" : "step-n-pace M R",
+            "flipkartAssured" : "true",
+            "price" : 2172,
+            "ogPrice" : 5299,
+            "size" : "7,8,9,10,11",
+            "special" : "Lowest price since launch"
+        },
+        {
+            "img" : [
+                "/shoesPage/shoe7/img1.webp",
+                "/shoesPage/shoe7/img2.webp",
+                "/shoesPage/shoe7/img3.webp",
+                "/shoesPage/shoe7/img4.webp"
+            ],
+            "brand" : "GOLDSTAR",
+            "title" : "Jungle Army boot",
+            "flipkartAssured" : "true",
+            "price" : 699,
+            "ogPrice" : 1595,
+            "size" : "6,7,8,9,10,11"
+        },
+        {
+            "img" : [
+                "/shoesPage/shoe8/img1.webp",
+                "/shoesPage/shoe8/img2.webp",
+                "/shoesPage/shoe8/img3.webp",
+                "/shoesPage/shoe8/img4.webp"
+            ],
+            "brand" : "ATOM",
+            "title" : "Spring Edge Alpha",
+            "flipkartAssured" : "true",
+            "price" : 1036,
+            "ogPrice" : 3295,
+            "size" : "6,7,8,9,10,11"
+        },
+        {
+            "img" : [
+                "/shoesPage/shoe9/img1.webp"
+            ],
+            "brand" : "REEBOK",
+            "title" : "Stride Runner M Running",
+            "flipkartAssured" : "false",
+            "price" : 1249,
+            "ogPrice" : 2499,
+            "size" : "6,7,8,9,10"
+        },
+        {
+            "img" : [
+                "/shoesPage/shoe9/img2.webp"
+            ],
+            "brand" : "HRX",
+            "title" : "HRX-034 01 Running",
+            "flipkartAssured" : "false",
+            "price" : 1599,
+            "ogPrice" : 3999,
+            "size" : "6,7,8,9,10,11"
+        },
+        {
+            "img" : [
+                "/shoesPage/shoe9/img3.webp"
+            ],
+            "brand" : "ATOM",
+            "title" : "Spring Edge Alpha",
+            "flipkartAssured" : "true",
+            "price" : 1036,
+            "ogPrice" : 3295,
+            "size" : "7,9,10,11"
+        },
+        {
+            "img" : [
+                "/shoesPage/shoe9/img4.webp"
+            ],
+            "brand" : "ADIDAS",
+            "title" : "Quid Pro Running",
+            "flipkartAssured" : "true",
+            "price" : 1612,
+            "ogPrice" : 4999,
+            "size" : "6,7,8,9,10,11"
+        },
+        {
+            "img" : [
+                "/shoesPage/shoe9/img5.webp"
+            ],
+            "brand" : "ADIDAS",
+            "title" : "GALAXY STAR",
+            "flipkartAssured" : "true",
+            "price" : 2474,
+            "ogPrice" : 7599,
+            "size" : "7,8,9,10,11",
+            "special" : "Lowest price since launch"
+        },
+        {
+            "img" : [
+                "/shoesPage/shoe9/img6.webp"
+            ],
+            "brand" : "SLAZENGER",
+            "title" : "SS24 Dutch Tpr",
+            "flipkartAssured" : "true",
+            "price" : 999,
+            "ogPrice" : 2999,
+            "size" : "6,7,8,9,10",
+            "qty" : "Only few Left"
+            
+        },
+        {
+            "img" : [
+                "/shoesPage/shoe9/img7.webp"
+            ],
+            "brand" : "Asiacs",
+            "title" : "Gel-Sitrek Casuals",
+            "flipkartAssured" : "false",
+            "price" : 2229,
+            "ogPrice" : 6999,
+            "size" : "6,7,8,9,10,11"
+        },
+        {
+            "img" : [
+                "/shoesPage/shoe9/img8.webp"
+            ],
+            "brand" : "Zixer",
+            "title" : "Trendy Chunky",
+            "flipkartAssured" : "true",
+            "price" : 611,
+            "ogPrice" : 2199,
+            "size" : "6,7,8,9,10,11"
+        },
+        {
+            "img" : [
+                "/shoesPage/shoe9/img9.webp"
+            ],
+            "brand" : "ATOM",
+            "title" : "Good Vibes",
+            "flipkartAssured" : "true",
+            "price" : 1202,
+            "ogPrice" : 2895,
+            "size" : "6,7,8,9,10,11"
+        },
+        {
+            "img" : [
+                "/shoesPage/shoe9/img10.webp"
+            ],
+            "brand" : "REEBOK",
+            "title" : "Voyeger M Running",
+            "flipkartAssured" : "true",
+            "price" : 1259,
+            "ogPrice" : 2799,
+            "size" : "6,7,8,9,10,11"
+        },
+        {
+            "img" : [
+                "/shoesPage/shoe9/img11.webp"
+            ],
+            "brand" : "ADIDAS",
+            "title" : "EdgeWalk Walking",
+            "flipkartAssured" : "true",
+            "price" : 3495,
+            "ogPrice" : 7599,
+            "size" : "6,7,8,9,10,11,12"
+        },
+        {
+            "img" : [
+                "/shoesPage/shoe9/img12.webp"
+            ],
+            "brand" : "GO RIDE",
+            "title" : "Garmin Running",
+            "flipkartAssured" : "true",
+            "price" : 809,
+            "ogPrice" : 1649,
+            "size" : "6,7,8,9,10"
+        }
+    ]
+}
